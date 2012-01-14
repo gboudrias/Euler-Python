@@ -2,6 +2,15 @@
 Created on 2011-12-26
 
 @author: Guigui
+
+
+NOTE: THIS IS MESSED UP. DO NOT USE.
+
+This solution I believe is technically correct (the best kind of correct).
+
+However, it would take several years to compute the solution this way.
+
+So yeah, this is not an efficient solution. Sorry!
 '''
 
 import time
